@@ -14,7 +14,7 @@ namespace RunesTeleportGodes
 {
     internal class RunesTeleportGodesItems
     {
-        // Diccionario para almacenar la "config en caliente" de cada runa
+
         internal static Dictionary<string, RunaItemConfig> _runaConfigs = new Dictionary<string, RunaItemConfig>();
         internal static DateTime _globalNextUse = DateTime.MinValue;
 
