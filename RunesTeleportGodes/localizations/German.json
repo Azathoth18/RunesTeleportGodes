@@ -1,0 +1,22 @@
+{
+  "RunaT1_name": "Vanaheim-Rune",
+  "RunaT1_desc": "Eine grundlegende Rune, die für Entdecker der Wiesen gefertigt wurde. Ermöglicht den Transport von allem außer Metallen und wertvollen Gegenständen.",
+
+  "RunaT2_name": "Rune von Mimir",
+  "RunaT2_desc": "Tief im Dunkelwald geschmiedet, erlaubt sie den Transport von gewöhnlichen Mineralien wie Kupfer und Zinn.",
+
+  "RunaT3_name": "Rune of Helheim",
+  "RunaT3_desc": "Hergestellt aus dem Schlamm und der Magie des Sumpfes, ermöglicht sie den Transport von Eisen und verwandten Materialien.",
+
+  "RunaT4_name": "Skadi-Eisrune",
+  "RunaT4_desc": "In der ewigen Kälte der Berge geschnitzt, erlaubt diese Rune den Transport von Silber und Dracheneiern.",
+
+  "RunaT5_name": "Frey Runenstein",
+  "RunaT5_desc": "Durchdrungen vom Zorn der Fulings, erlaubt diese Rune den Transport von Schwarzmetall aus den Ebenen.",
+
+  "RunaT6_name": "Rune von Niflheim",
+  "RunaT6_desc": "Ein seltenes Artefakt, das in den Nebellanden gefertigt wurde, entwickelt für den Transport der seltensten Metalle der Region.",
+
+  "RunaT7_name": "Surtr Flame Runestone",
+  "RunaT7_desc": "Der Höhepunkt der Runen, geschmiedet in den Aschen von Ashland. Erlaubt den Transport aller Metalle ohne Einschränkungen."
+}

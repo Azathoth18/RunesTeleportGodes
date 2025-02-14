@@ -1,0 +1,22 @@
+{
+  "RunaT1_name": "Rune Vanaheim",
+  "RunaT1_desc": "A basic rune created for prairie explorers. It allows transporting everything except metals and valuable objects.",
+
+  "RunaT2_name": "Rune of Mimir",
+  "RunaT2_desc": "Forged in the depths of the dark forest, it allows transporting certain common minerals like copper and tin.",
+
+  "RunaT3_name": "Rune of Helheim",
+  "RunaT3_desc": "Created with the mud and magic of the swamp, it allows transporting iron and other related materials.",
+
+  "RunaT4_name": "Rune of Skadi",
+  "RunaT4_desc": "Carved in the eternal cold of the mountain, this rune allows transporting silver and dragon eggs.",
+
+  "RunaT5_name": "Rune of Frey",
+  "RunaT5_desc": "Infused with the fury of the fulings, this rune allows transporting black metal from the plains.",
+
+  "RunaT6_name": "Rune of Niflheim",
+  "RunaT6_desc": "A rare artifact created in the Mistlands, designed to transport the rarest metals of that region.",
+
+  "RunaT7_name": "Surtr's Flame Rune Stone",
+  "RunaT7_desc": "The pinnacle of runes, forged in the ashes of Ashland. It allows transporting all metals without restrictions."
+}

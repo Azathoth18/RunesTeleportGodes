@@ -1,0 +1,22 @@
+{
+  "RunaT1_name": "Runa Vanaheim",
+  "RunaT1_desc": "Una runa básica creada para exploradores de la pradera. Permite transportar todo excepto metales y objetos valiosos.",
+
+  "RunaT2_name": "Runa de Mimir",
+  "RunaT2_desc": "Forjada en las profundidades del bosque oscuro, permite transportar ciertos minerales comunes como el cobre y estaño.",
+
+  "RunaT3_name": "Runa de Helheim",
+  "RunaT3_desc": "Creada con el barro y la magia del pantano, permite transportar hierro y otros materiales relacionados.",
+
+  "RunaT4_name": "Runa de Skadi",
+  "RunaT4_desc": "Tallada en el frío eterno de la montaña, esta runa permite transportar plata y huevos de dragón.",
+
+  "RunaT5_name": "Runa de Frey",
+  "RunaT5_desc": "Infundida con la furia de los fulings, esta runa permite transportar metal negro desde las llanuras.",
+
+  "RunaT6_name": "Runa de Niflheim",
+  "RunaT6_desc": "Un artefacto raro creado en las Mistlands, diseñada para transportar los metales más raros de esa región.",
+
+  "RunaT7_name": "Piedra Runa de Llama Surtr,",
+  "RunaT7_desc": "El pináculo de las runas, forjada en las cenizas de Ashland. Permite transportar todos los metales sin restricciones."
+}

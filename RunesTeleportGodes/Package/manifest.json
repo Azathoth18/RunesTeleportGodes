@@ -1,0 +1,10 @@
+﻿{
+  "name": "RunesTeleportGodes",
+  "description": "Runas Teleport",
+  "version_number": "0.0.1",
+  "website_url": "https://discord.gg/Mj9y2w6w2B",
+  "dependencies": [
+    "denikson-BepInExPack_Valheim-5.4.2100",
+    "ValheimModding-Jotunn-2.23.1"
+  ]
+}
